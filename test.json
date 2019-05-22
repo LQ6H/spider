@@ -1,0 +1,23 @@
+{
+	"store":{
+		"book":[
+			{
+				"category":"reference",
+				"author":"Nigel Rees",
+				"title":"Sayings of the Century",
+				"price":8.99
+			},
+			{
+				"category":"fiction",
+				"author":"J.R.Tolien",
+				"title":"The Lord of the Rings",
+				"ISBN":"0-395-19-395",
+				"price":22.99
+			}
+		],
+		"bicycle":{
+			"color":"red",
+			"price":19.99
+		}
+	}
+}
